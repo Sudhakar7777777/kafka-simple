@@ -1,6 +1,6 @@
 # kafka-simple
 
-Simple Kafka applications to experiment Kafka features
+Simple apps to experiment Kafka features
 
 
 
